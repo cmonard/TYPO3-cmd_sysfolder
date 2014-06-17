@@ -1,0 +1,31 @@
+2014-03-22 Christophe Monard  <contact@cmonard.fr>
+	* Code refactor for the TYPO3 V6.
+	* Not compatible with older version < 6.0.0
+	* Still compatible with old record and temp file system :)
+
+2013-03-20 Christophe Monard  <contact@cmonard.fr>
+	* Minor code correction for Sonar tests
+
+2013-01-29 Christophe Monard  <contact@cmonard.fr>
+	* Corrected an error when clearing cache first time we reload backend (conflit between temp_CACHED and temp_CACHED_FE). Thanks Stig for detection ;)
+
+2012-10-20 Christophe Monard  <contact@cmonard.fr>
+	* Bugfix when cmd_api isn't available. Thanks Casper.
+
+2012-10-08 Christophe Monard  <contact@cmonard.fr>
+	* Bugfix when using quote in icon name
+
+2011-04-07 Christophe Monard  <contact@cmonard.fr>
+	* Code now take care that icon key sould be 10 char max (if longer, shortMD5 will be applyed)
+
+2011-04-05 Christophe Monard  <contact@cmonard.fr>
+	* minor code optimisation
+	* correct deprecated by ref func warning
+
+2011-04-05 Christophe Monard  <contact@cmonard.fr>
+	* bugfix that didn't let us to insert record
+
+2011-04-01 Christophe Monard  <contact@cmonard.fr>
+	* Will be removed from the next release of cmd_api
+	* extract from cmd_api with improved code, now support spritemanager
+	* Initial release of the extension

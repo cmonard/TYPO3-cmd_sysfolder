@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-03-21T15:40:30Z" product-name="cmd_sysfolder">
+		<header/>
+		<body>
+			<trans-unit id="tx_cmdsysfolder_icon">
+				<source>Sysfolder Icons</source>
+                                <target state="translated">Icones de dossier système</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsysfolder_icon.name">
+				<source>Name</source>
+                                <target state="translated">Nom</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsysfolder_icon.icon">
+				<source>Icon</source>
+                                <target state="translated">Icone</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsysfolder_icon.tables">
+				<source>Table</source>
+                                <target state="translated">Table</target>
+			</trans-unit>
+			<trans-unit id="tx_cmdsysfolder_icon.tables.I.0">
+				<source>Pages</source>
+                                <target state="translated">Pages</target>
+			</trans-unit>
+                </body>
+        </file>
+</xliff>

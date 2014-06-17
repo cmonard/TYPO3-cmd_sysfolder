@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-03-21T15:40:30Z" product-name="cmd_sysfolder">
+		<header/>
+		<body>
+			<trans-unit id="title">
+				<source>Clear SysFolder Icon Cache</source>
+			</trans-unit>
+                </body>
+        </file>
+</xliff>
