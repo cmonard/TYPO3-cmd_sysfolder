@@ -1,6 +1,4 @@
-TYPO3-cmd_sysfolder
+cmd_sysfolder for TYPO3
 ===================
-
-cmd_sysfolder extension for TYPO3
 
 Make sysfolder icon creation easier
